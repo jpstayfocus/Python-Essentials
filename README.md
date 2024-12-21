@@ -2,6 +2,7 @@
 Basic Principle of programming languages with Python
 
 - [x]  Getting Started
+    1. Installing Python
     - Python can be downloaded [here](https://www.python.org/downloads/)
     - To install it on a Windows OS machine, click [here](https://www.digitalocean.com/community/tutorials/install-python-windows-10)
     - To install it on a MacOS machine, click [here](https://docs.python.org/3/using/mac.html)
