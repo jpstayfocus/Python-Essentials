@@ -11,7 +11,7 @@ Basic Principle of programming languages with Python
 
     2. Installing Pycharm
         - Pycharm can be downloaded [here](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC) (Choose the community edition)
-        - 
+   
 
 - [x]  The basics
 - [x]  Operators
