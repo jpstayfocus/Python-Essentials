@@ -10,7 +10,7 @@ Basic Principle of programming languages with Python
         - There are plenty youtube videos as well.
 
     2. Installing Pycharm
-        - Pycharm can be downloaded [here]([[https://www.python.org/downloads/](https://www.jetbrains.com/pycharm/download/?source=google&medium=cpc&campaign=AMER_en_CA_PyCharm_Branded&term=pycharm&content=698987581431&gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JEtagml8HLqug9JZtI2xoaBt4rScQAfWfY6zsJR0DIHEI4pb4Z_2yRoCDbsQAvD_BwE&section=mac)](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC)) Choose the community edition
+        - Pycharm can be downloaded [here](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC) Choose the community edition
         - 
 
 - [x]  The basics
