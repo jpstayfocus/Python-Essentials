@@ -2,7 +2,7 @@
 # Example of variables
 name = "Foo" # String
 age = 20 # number
-age: int = 20 # define de type
+age: int = 20 # define the type
 number = [1,2,4,5,6] # list
 pi =  3.14 # decimal
 
